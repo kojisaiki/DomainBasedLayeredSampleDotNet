@@ -6,5 +6,6 @@ namespace AcmeManufactureDomain.Fact
      */
     public class Tyumonsho
     {
+        private long id;
     }
 }
