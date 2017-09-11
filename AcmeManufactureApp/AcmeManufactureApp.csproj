@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>AcmeManufactureApp</RootNamespace>
     <AssemblyName>AcmeManufactureApp</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
