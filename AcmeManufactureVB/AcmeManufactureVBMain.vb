@@ -1,4 +1,2 @@
-﻿Imports AcmeManufactureCS.AcmeMantufactureCSMain
-
-Public Class AcmeManufactureVBMain
+﻿Public Class AcmeManufactureVBMain
 End Class

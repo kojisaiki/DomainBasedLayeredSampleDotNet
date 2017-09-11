@@ -13,7 +13,7 @@ namespace AcmeManufactureApp
         static void Main(string[] args)
         {
             AcmeMantufactureCSMain csform = new AcmeMantufactureCSMain();
-            csform.Show();
+            csform.ShowDialog();
         }
     }
 }
