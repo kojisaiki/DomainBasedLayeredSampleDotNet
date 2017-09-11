@@ -35,8 +35,8 @@
     <Compile Include="Thing\Tyumonsho.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Job\" />
     <Folder Include="Position\" />
+    <Folder Include="Service\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
