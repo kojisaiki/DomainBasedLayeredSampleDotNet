@@ -1,5 +1,5 @@
 ﻿using System;
-namespace AcmeManufactureDomain.Fact
+namespace AcmeManufactureMissionCritical.domain.thing
 {
     /**
      * 注文書
